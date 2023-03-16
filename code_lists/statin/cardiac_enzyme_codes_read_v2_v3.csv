@@ -11,10 +11,7 @@ CK,44HM.,XaY88,Creatine kinase MB activity
 AST,44H5.,XE25Q,Aspartate transaminase level
 AST,44HB.,X771i,AST serum level
 AST,44HC.,XaES6,Plasma aspartate transaminase level
-LDH,44H6.,XE2sG,Lactate dehydrogenase level
-LDH,,X771l,LDH blood level
-LDH,44H9.,XE2py,Total lactic dehydrogenase
-LDH,44HA.,XM0m0,Serum total lactate dehydrogenase level
-LDH,44HD.,XaES9,Plasma lactate dehydrogenase level
-LDH,44HF.,XaES8,Serum lactate dehydrogenase level
-LDH,44HH.,X771l,LDH blood level
+ALT,44G3.,44G3.,ALT/SGPT serum level
+ALT,44GB.,XaLJx,Serum alanine aminotransferase level
+ALT,44G..,X771f,ALT - blood level
+ALT,,X771e,SGPT - blood level
