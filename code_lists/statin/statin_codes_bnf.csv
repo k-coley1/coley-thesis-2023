@@ -1,0 +1,116 @@
+﻿Statin,BNF,Description,Dosage_mg,Intensity
+Atorvastatin,0212000B0AAAAAA,Atorvastatin_Tab 10mg,10,Medium
+Atorvastatin,0212000B0AAAHAH,Atorvastatin_Liq Spec 10mg/5ml,10,Medium
+Atorvastatin,0212000B0AAAJAJ,Atorvastatin_Pdr Sach 10mg,10,Medium
+Atorvastatin,0212000B0AAALAL,Atorvastatin_Tab Chble 10mg S/F,10,Medium
+Atorvastatin,0212000B0BBAAAA,Lipitor_Tab 10mg,10,Medium
+Atorvastatin,0212000B0BBAEAL,Lipitor_Tab Chble 10mg,10,Medium
+Atorvastatin,0212000B0BCAAAA,Cardyl_Tab 10mg,10,Medium
+Atorvastatin,0212000B0BDAAAA,Prevencor_Tab 10mg,10,Medium
+Atorvastatin,0212000B0BEAAAA,Tahor_Tab 10mg,10,Medium
+Atorvastatin,0212000B0BFABAA,Sortis_Tab 10mg,10,Medium
+Atorvastatin,0212000B0BGAAAA,Zarator_Tab 10mg,10,Medium
+Atorvastatin,0212000B0AAABAB,Atorvastatin_Tab 20mg,20,High
+Atorvastatin,0212000B0AAAEAE,Atorvastatin_Tab 20mg,20,High
+Atorvastatin,0212000B0AAAFAF,Atorvastatin_Oral Soln 20mg/5ml,20,High
+Atorvastatin,0212000B0AAAKAK,Atorvastatin_Pdr Sach 20mg,20,High
+Atorvastatin,0212000B0AAAMAM,Atorvastatin_Tab Chble 20mg S/F,20,High
+Atorvastatin,0212000B0AAAQAQ,Atorvastatin_Oral Susp 20mg/5ml,20,High
+Atorvastatin,0212000B0BBABAB,Lipitor_Tab 20mg,20,High
+Atorvastatin,0212000B0BBAFAM,Lipitor_Tab Chble 20mg,20,High
+Atorvastatin,0212000B0BFAAAB,Sortis_Tab 20mg,20,High
+Atorvastatin,0212000B0AAANAN,Atorvastatin_Tab 30mg,30,High
+Atorvastatin,0212000B0AAACAC,Atorvastatin_Tab 40mg,40,High
+Atorvastatin,0212000B0AAAGAG,Atorvastatin_Liq Spec 40mg/5ml,40,High
+Atorvastatin,0212000B0BBACAC,Lipitor_Tab 40mg,40,High
+Atorvastatin,0212000B0AAAPAP,Atorvastatin_Tab 60mg,60,High
+Atorvastatin,0212000B0AAADAD,Atorvastatin_Tab 80mg,80,High
+Atorvastatin,0212000B0AAAIAI,Atorvastatin_Oral Susp 80mg/5ml,80,High
+Atorvastatin,0212000B0BBADAD,Lipitor_Tab 80mg,80,High
+Cerivastatin,0212000C0AAAAAA,Cerivastatin_Tab 100mcg,0.1,Low
+Cerivastatin,0212000C0BBAAAA,Lipobay_Tab 100mcg,0.1,Low
+Cerivastatin,0212000C0AAABAB,Cerivastatin_Tab 200mcg,0.2,Low
+Cerivastatin,0212000C0BBABAB,Lipobay_Tab 200mcg,0.2,Low
+Cerivastatin,0212000C0AAACAC,Cerivastatin_Tab 300mcg,0.3,Medium
+Cerivastatin,0212000C0BBACAC,Lipobay_Tab 300mcg,0.3,Medium
+Cerivastatin,0212000C0AAADAD,Cerivastatin_Tab 400mcg,0.4,Medium
+Cerivastatin,0212000C0BBADAD,Lipobay_Tab 400mcg,0.4,Medium
+Cerivastatin,0212000C0AAAEAE,Cerivastatin_Tab 800mcg,0.8,High
+Cerivastatin,0212000C0BBAEAE,Lipobay_Tab 800mcg,0.8,High
+Fluvastatin,0212000M0AAACAC,Fluvastatin Sod_Liq Spec 10mg/5ml,10,Low
+Fluvastatin,0212000M0AAAAAA,Fluvastatin Sod_Cap 20mg,20,Low
+Fluvastatin,0212000M0BBAAAA,Lescol_Cap 20mg,20,Low
+Fluvastatin,0212000M0AAABAB,Fluvastatin Sod_Cap 40mg,40,Low
+Fluvastatin,0212000M0BBABAB,Lescol_Cap 40mg,40,Low
+Fluvastatin,0212000M0AAADAD,Fluvastatin Sod_Tab 80mg M/R,80,Medium
+Fluvastatin,0212000M0AAAEAE,Fluvastatin Sod_Tab 80mg M/R,80,Medium
+Fluvastatin,0212000M0BBACAD,Lescol XL_Tab 80mg,80,Medium
+Fluvastatin,0212000M0BCAAAD,Luvinsta XL_Tab 80mg,80,Medium
+Fluvastatin,0212000M0BDAAAD,Pinmactil_Tab 80mg M/R,80,Medium
+Fluvastatin,0212000M0BEAAAD,Dorisin XL_Tab 80mg,80,Medium
+Fluvastatin,0212000M0BFAAAD,Stefluvin XL_Tab 80mg,80,Medium
+Fluvastatin,0212000M0BGAAAD,Nandovar XL_Tab 80mg,80,Medium
+Pravastatin,0212000X0AAAJAJ,Pravastatin Sod_Pdr Sach 2.5mg,2.5,Low
+Pravastatin,0212000X0AAAKAK,Pravastatin Sod_Liq Spec 5mg/5ml,5,Low
+Pravastatin,0212000X0AAAMAM,Pravastatin Sod_Pdr Sach 5mg,5,Low
+Pravastatin,0212000X0AAAAAA,Pravastatin Sod_Tab 10mg,10,Low
+Pravastatin,0212000X0AAAEAE,Pravastatin Sod_Tab 10mg,10,Low
+Pravastatin,0212000X0AAAIAI,Pravastatin Sod_Pdr Sach 10mg,10,Low
+Pravastatin,0212000X0BBAAAA,Lipostat_Tab 10mg,10,Low
+Pravastatin,0212000X0BDAAAA,Lipemol_Tab 10mg,10,Low
+Pravastatin,0212000X0BEAAAA,Liplat_Tab 10mg,10,Low
+Pravastatin,0212000X0AAABAB,Pravastatin Sod_Tab 20mg,20,Low
+Pravastatin,0212000X0AAACAC,Pravastatin Sod_Tab 20mg(Parallel Import,20,Low
+Pravastatin,0212000X0AAAFAF,Pravastatin Sod_Tab 20mg,20,Low
+Pravastatin,0212000X0AAAGAG,Pravastatin Sod_Oral Soln 20mg/5ml S/F,20,Low
+Pravastatin,0212000X0AAALAL,Pravastatin Sod_Liq Spec 20mg/5ml,20,Low
+Pravastatin,0212000X0BBABAB,Lipostat_Tab 20mg,20,Low
+Pravastatin,0212000X0BCAAAB,Elisor_Tab 20mg,20,Low
+Pravastatin,0212000X0BDABAB,Lipemol_Tab 20mg,20,Low
+Pravastatin,0212000X0AAADAD,Pravastatin Sod_Tab 40mg,40,Low
+Pravastatin,0212000X0AAAHAH,Pravastatin Sod_Liq Spec 40mg/5ml,40,Low
+Pravastatin,0212000X0BBACAD,Lipostat_Tab 40mg,40,Low
+Rosuvastatin,0212000AAAAADAD,Rosuvastatin Calc_Tab 5mg,5,Medium
+Rosuvastatin,0212000AABBADAD,Crestor_Tab 5mg,5,Medium
+Rosuvastatin,0212000AAAAAAAA,Rosuvastatin Calc_Tab 10mg,10,High
+Rosuvastatin,0212000AABBAAAA,Crestor_Tab 10mg,10,High
+Rosuvastatin,0212000AAAAABAB,Rosuvastatin Calc_Tab 20mg,20,High
+Rosuvastatin,0212000AAAAAEAE,Rosuvastatin Calc_Liq Spec 20mg/5ml,20,High
+Rosuvastatin,0212000AABBABAB,Crestor_Tab 20mg,20,High
+Rosuvastatin,0212000AAAAACAC,Rosuvastatin Calc_Tab 40mg,40,High
+Rosuvastatin,0212000AABBACAC,Crestor_Tab 40mg,40,High
+Simvastatin,0212000Y0AAAIAI,Simvastatin_Liq Spec 5mg/5ml,5,Low
+Simvastatin,0212000Y0AAAJAJ,Simvastatin_Cap 5mg,5,Low
+Simvastatin,0212000Y0AAAAAA,Simvastatin_Tab 10mg,10,Low
+Simvastatin,0212000Y0AAACAC,Simvastatin_Tab 10mg,10,Low
+Simvastatin,0212000Y0AAAFAF,Simvastatin_Liq Spec 10mg/5ml,10,Low
+Simvastatin,0212000Y0BBAAAA,Zocor_Tab 10mg,10,Low
+Simvastatin,0212000Y0BBAEAA,Zocor Heart-Pro_Tab 10mg,10,Low
+Simvastatin,0212000Y0BDAAAA,Simvador_Tab 10mg,10,Low
+Simvastatin,0212000Y0BEAAAA,Ranzolont_Tab 10mg,10,Low
+Simvastatin,0212000Y0BFAAAA,Lloyds_Cholesterol Lowering Tab 10mg,10,Low
+Simvastatin,0212000Y0AAABAB,Simvastatin_Tab 20mg,20,Medium
+Simvastatin,0212000Y0AAAEAE,Simvastatin_Tab 20mg,20,Medium
+Simvastatin,0212000Y0AAAGAG,Simvastatin_Liq Spec 20mg/5ml,20,Medium
+Simvastatin,0212000Y0AAAKAK,Simvastatin_Oral Susp 20mg/5ml S/F,20,Medium
+Simvastatin,0212000Y0BBABAB,Zocor_Tab 20mg,20,Medium
+Simvastatin,0212000Y0BCAAAB,Lacersa_Tab 20mg,20,Medium
+Simvastatin,0212000Y0BDABAB,Simvador_Tab 20mg,20,Medium
+Simvastatin,0212000Y0BEABAB,Ranzolont_Tab 20mg,20,Medium
+Simvastatin,0212000Y0AAAPAP,Simvastatin_Liq Spec 25mg/5ml,25,Medium
+Simvastatin,0212000Y0AAADAD,Simvastatin_Tab 40mg,40,Medium
+Simvastatin,0212000Y0AAALAL,Simvastatin_Oral Susp 40mg/5ml S/F,40,Medium
+Simvastatin,0212000Y0AAAMAM,Simvastatin_Liq Spec 40mg/5ml,40,Medium
+Simvastatin,0212000Y0BBACAD,Zocor_Tab 40mg,40,Medium
+Simvastatin,0212000Y0BDACAD,Simvador_Tab 40mg,40,Medium
+Simvastatin,0212000Y0BEACAD,Ranzolont_Tab 40mg,40,Medium
+Simvastatin,0212000Y0AAAHAH,Simvastatin_Tab 80mg,80,High
+Simvastatin,0212000Y0AAANAN,Simvastatin_Liq Spec 80mg/5ml,80,High
+Simvastatin,0212000Y0BBADAH,Zocor_Tab 80mg,80,High
+Simvastatin,0212000Y0BDADAH,Simvador_Tab 80mg,80,High
+Simvastatin/ezetimibe combination,0212000ACAAAAAA,Simvastatin/Ezetimibe_Tab 20mg/10mg,20,Medium
+Simvastatin/ezetimibe combination,0212000ACAAABAB,Simvastatin/Ezetimibe_Tab 40mg/10mg,40,Medium
+Simvastatin/ezetimibe combination,0212000ACAAACAC,Simvastatin/Ezetimibe_Tab 80mg/10mg,80,High
+Simvastatin/ezetimibe combination,0212000ACBBAAAA,Inegy_Tab 10mg/20mg,20,Medium
+Simvastatin/ezetimibe combination,0212000ACBBABAB,Inegy_Tab 10mg/40mg,40,Medium
+Simvastatin/ezetimibe combination,0212000ACBBACAC,Inegy_Tab 10mg/80mg,80,High

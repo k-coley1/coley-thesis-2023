@@ -1,0 +1,20 @@
+﻿Type,Read_v2,Read_v3,Description
+CK,44H4.,44H4.,CK - creatine kinase level
+CK,44H8.,44H8.,Serum creatinine phosphokinase MB isoenzyme level
+CK,44HE.,XaESB,Plasma creatine kinase level
+CK,44HG.,XaES5,Serum creatine kinase level
+CK,44HJ.,XaJNR,Plasma creatinine phosphokinase MB isoenzyme level
+CK,44HK.,XaLWP,Macromolecular creatine kinase level
+CK,44HK0,XabDx,Serum macromolecular creatine kinase level
+CK,44HL.,XaX4A,Creatine kinase MB isoenzyme level
+CK,44HM.,XaY88,Creatine kinase MB activity
+AST,44H5.,XE25Q,Aspartate transaminase level
+AST,44HB.,X771i,AST serum level
+AST,44HC.,XaES6,Plasma aspartate transaminase level
+LDH,44H6.,XE2sG,Lactate dehydrogenase level
+LDH,,X771l,LDH blood level
+LDH,44H9.,XE2py,Total lactic dehydrogenase
+LDH,44HA.,XM0m0,Serum total lactate dehydrogenase level
+LDH,44HD.,XaES9,Plasma lactate dehydrogenase level
+LDH,44HF.,XaES8,Serum lactate dehydrogenase level
+LDH,44HH.,X771l,LDH blood level

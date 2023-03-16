@@ -1,0 +1,15 @@
+Type,Read_v2,Read_v3,Description
+ADR,Xa5bP,YaSf2,HMG COA reductase inhibitor adverse reaction
+ADR,Xa5bQ,YaSf3,Simvastatin adverse reaction
+ADR,Xa5bR,YaSf4,Fluvastatin adverse reaction
+ADR,Xa5bS,YaSf5,Pravastatin adverse reaction
+ADR,TJC24,TJC24,Adverse reaction to simvastatin
+ADR,,XaIro,Adverse reaction to statins
+ADR,U60CA,XaIsC,Statin causing adverse effect in therapeutic use
+ADR,U60C6,U60C6,Adverse reaction to pravastatin/simvastatin
+Allergy,Xa5zs,YaT3V,HMG COA reductase inhibitor allergy
+Allergy,Xa5zt,YaT3W,Simvastatin allergy
+Allergy,Xa5zu,YaT3X,Fluvastatin allergy
+Allergy,Xa5zv,YaT3Y,Pravastatin allergy
+Allergy,TJC25,TJC25,Adverse reaction to pravastatin
+Allergy,8I76.,XaJYw,Statin not tolerated

@@ -1,0 +1,29 @@
+Read_v3,Description,Status
+XE0oh,Never smoked tobacco,Non-smoker
+Ub0oq,Non-smoker,Non-smoker
+XE0oi,Trivial cigarette smoker (less than one cigarette/day),Smoker
+Ub1tR,Occasional cigarette smoker,Smoker
+1373.,Light smoker - 1-9 cigs/day,Smoker
+1374.,Moderate smoker - 10-19 cigs/d,Smoker
+1375.,Heavy smoker - 20-39 cigs/day,Smoker
+1376.,Very heavy smoker - 40+cigs/d,Smoker
+1377.,Ex-trivial smoker (<1/day),Non-smoker
+1378.,Ex-light smoker (1-9/day),Non-smoker
+1379.,Ex-moderate smoker (10-19/day),Non-smoker
+137A.,Ex-heavy smoker (20-39/day),Non-smoker
+137B.,Ex-very heavy smoker (40+/day),Non-smoker
+XaBSp,Smoking restarted,Smoker
+137F.,Ex-smoker - amount unknown,Non-smoker
+137H.,Pipe smoker,Smoker
+137K.,Stopped smoking,Non-smoker
+XaQzw,Recently stopped smoking,Non-smoker
+Xa1bv,Ex-cigarette smoker,Non-smoker
+137J.,Cigar smoker,Smoker
+XaQ8V,Ex roll-up cigarette smoker,Non-smoker
+137L.,Current non-smoker,Non-smoker
+XaWNE,Failed attempt to stop smoking,Smoker
+137N.,Ex pipe smoker,Non-smoker
+137O.,Ex cigar smoker,Non-smoker
+XE0oq,Cigarette smoker,Smoker
+137R.,Current smoker,Smoker
+Ub1na,Ex-smoker,Non-smoker
